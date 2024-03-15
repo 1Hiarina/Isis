@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Allow Arbitrary Loads</key>
+	<string>YES</string>
+	<key>Item0</key>
+	<string></string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>NeutralFace-Bold.otf</string>
+		<string>NeutralFace.otf</string>
+		<string>Inter-VariableFont_slnt,wght.ttf</string>
+		<string>Gilmer Bold.otf</string>
+		<string>Gilmer Heavy.otf</string>
+		<string>Gilmer Light.otf</string>
+	</array>
+</dict>
+</plist>
